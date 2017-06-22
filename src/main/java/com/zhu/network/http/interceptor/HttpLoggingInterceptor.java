@@ -1,4 +1,4 @@
-package com.che168.network.http.interceptor;
+package com.zhu.network.http.interceptor;
 /*
  * Copyright (C) 2015 Square, Inc.
  *
@@ -17,7 +17,7 @@ package com.che168.network.http.interceptor;
 
 import android.util.Log;
 
-import com.che168.network.http.HttpUtil;
+import com.zhu.network.http.HttpUtil;
 
 import java.io.EOFException;
 import java.io.IOException;

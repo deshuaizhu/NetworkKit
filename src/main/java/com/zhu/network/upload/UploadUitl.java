@@ -1,10 +1,10 @@
-package com.che168.network.upload;
+package com.zhu.network.upload;
 
 import android.text.TextUtils;
 
-import com.che168.network.http.HttpUtil;
-import com.che168.network.http.callback.FileUploadCallback;
-import com.che168.network.http.exception.BaseApiException;
+import com.zhu.network.http.HttpUtil;
+import com.zhu.network.http.callback.FileUploadCallback;
+import com.zhu.network.http.exception.BaseApiException;
 
 import java.util.Map;
 

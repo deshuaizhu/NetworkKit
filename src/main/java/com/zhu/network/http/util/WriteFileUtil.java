@@ -1,12 +1,12 @@
-package com.che168.network.http.util;
+package com.zhu.network.http.util;
 
 import android.os.Handler;
 import android.os.Looper;
 
-import com.che168.network.http.callback.Failed;
-import com.che168.network.http.callback.Progress;
-import com.che168.network.http.callback.Success;
-import com.che168.network.http.exception.BaseHttpException;
+import com.zhu.network.http.callback.Failed;
+import com.zhu.network.http.callback.Progress;
+import com.zhu.network.http.callback.Success;
+import com.zhu.network.http.exception.BaseHttpException;
 
 import java.io.File;
 import java.io.FileOutputStream;

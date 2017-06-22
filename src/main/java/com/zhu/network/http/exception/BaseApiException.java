@@ -1,4 +1,4 @@
-package com.che168.network.http.exception;
+package com.zhu.network.http.exception;
 
 /**
  * 基础api异常

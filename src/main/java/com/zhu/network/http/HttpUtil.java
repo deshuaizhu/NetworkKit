@@ -1,21 +1,21 @@
-package com.che168.network.http;
+package com.zhu.network.http;
 
 import android.support.annotation.NonNull;
 import android.util.Log;
 
-import com.che168.network.http.callback.Failed;
-import com.che168.network.http.callback.FileUploadCallback;
-import com.che168.network.http.callback.Progress;
-import com.che168.network.http.callback.ResponseHeaderCallback;
-import com.che168.network.http.callback.Success;
-import com.che168.network.http.converter.StringConverterFactory;
-import com.che168.network.http.exception.BaseApiException;
-import com.che168.network.http.exception.BaseHttpException;
-import com.che168.network.http.interceptor.HeadersInterceptor;
-import com.che168.network.http.interceptor.ParamsInterceptor;
-import com.che168.network.http.util.ThreadPoolFactory;
-import com.che168.network.http.util.WriteFileUtil;
-import com.che168.network.upload.FileRequestBody;
+import com.zhu.network.http.callback.Failed;
+import com.zhu.network.http.callback.FileUploadCallback;
+import com.zhu.network.http.callback.Progress;
+import com.zhu.network.http.callback.ResponseHeaderCallback;
+import com.zhu.network.http.callback.Success;
+import com.zhu.network.http.converter.StringConverterFactory;
+import com.zhu.network.http.exception.BaseApiException;
+import com.zhu.network.http.exception.BaseHttpException;
+import com.zhu.network.http.interceptor.HeadersInterceptor;
+import com.zhu.network.http.interceptor.ParamsInterceptor;
+import com.zhu.network.http.util.ThreadPoolFactory;
+import com.zhu.network.http.util.WriteFileUtil;
+import com.zhu.network.upload.FileRequestBody;
 
 import java.io.File;
 import java.net.ConnectException;

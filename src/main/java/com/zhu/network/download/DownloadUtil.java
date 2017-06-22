@@ -1,10 +1,10 @@
-package com.che168.network.download;
+package com.zhu.network.download;
 
-import com.che168.network.http.HttpUtil;
-import com.che168.network.http.callback.Failed;
-import com.che168.network.http.callback.Progress;
-import com.che168.network.http.callback.Success;
-import com.che168.network.http.exception.BaseHttpException;
+import com.zhu.network.http.HttpUtil;
+import com.zhu.network.http.callback.Failed;
+import com.zhu.network.http.callback.Progress;
+import com.zhu.network.http.callback.Success;
+import com.zhu.network.http.exception.BaseHttpException;
 
 /**
  * 下载文件工具类

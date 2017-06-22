@@ -1,6 +1,6 @@
-package com.che168.network.http.callback;
+package com.zhu.network.http.callback;
 
-import com.che168.network.http.exception.BaseHttpException;
+import com.zhu.network.http.exception.BaseHttpException;
 
 /**
  * 失败接口

@@ -1,6 +1,6 @@
-package com.che168.network.http.callback;
+package com.zhu.network.http.callback;
 
-import com.che168.network.http.exception.BaseApiException;
+import com.zhu.network.http.exception.BaseApiException;
 
 /**
  * Created by mengfanshuai on 2017/3/14.
